@@ -1,36 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@copterlnwza1 
- The password you provided is in a list of passwords commonly used on other websites. To increase your security, you must update your password. After April 7, 2022 we will automatically reset your password. Change your password on the settings page.
-
-Read our documentation on safer password practices.
-
-copterlnwza1
-/
-NEW
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-NEW/index.html
-@copterlnwza1
-copterlnwza1 Update index.html
-Latest commit 43b47a3 22 minutes ago
- History
- 1 contributor
-92 lines (92 sloc)  2.07 KB
-   
 <!DOCTYPE html> 
 <html> 
 <head> 
@@ -123,16 +90,3 @@ Latest commit 43b47a3 22 minutes ago
  </script>
 </body> 
 </html>
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
